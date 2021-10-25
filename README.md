@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @herckun
 - 👀 I’m interested in web, crypto and anime
-- 🌱 I’m currently learning ...
 - 📫 You can get in touch with my on twitter or at herculeshorse@tuta.io
 
 <!---
